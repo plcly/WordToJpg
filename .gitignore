@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /WordToJpg/Program.cs
+/WordToJpg/Program.cs
